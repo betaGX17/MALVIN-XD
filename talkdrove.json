@@ -18,13 +18,13 @@
     "OWNER_NUMBER": {
       "description": "Enter owner number",
       "required": true,
-      "value": "263714757857"
+      "value": "237676324978"
       
        },
       "TIMEZONE": {
       "description": "Enter country timezone",
       "required": true,
-      "value": "Africa/Harare"
+      "value": "Africa/Cameroon"
 
     }  
   }
