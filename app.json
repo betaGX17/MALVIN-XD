@@ -21,7 +21,7 @@
     },
      "PREFIX": {
        "description": "Bot command prefix, (e.g, . , ! @ etc",
-      "value": "."
+      "value": " "
       "required": true,
       
     },
